@@ -1,0 +1,1 @@
+An idea to center a title inside a div.
